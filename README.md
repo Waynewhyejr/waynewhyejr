@@ -14,6 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ☁️ Cloud Projects
 
+- **[Serverless URL Shortner AWS (Python)](https://github.com/Waynewhyejr/Serverless-URL-Shortener-AWS-/blob/main/README.md)**
 <hr/>
 
 ## 🤳 Connect With Me
