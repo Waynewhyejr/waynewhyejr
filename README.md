@@ -14,7 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🌐🏴‍☠️ SOC Lab
 
-- **[Serverless URL Shortner AWS (Python)](https://github.com/Waynewhyejr/Serverless-URL-Shortener-AWS-/blob/main/README.md)**
+- **[SOC Enviroment (Kali Linux)](https://github.com/Waynewhyejr/Security-Operations-Center-SOC-Lab-with-Kali-Linux/blob/main/README.md)**
 <hr/>
 
 ## 🤳 Connect With Me
