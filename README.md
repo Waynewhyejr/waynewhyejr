@@ -12,7 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Waynewhyejr/threat-hunting-scenario-tor-)**
 
-## ☁️ Cloud Projects
+## 🌐🏴‍☠️ SOC Lab
 
 - **[Serverless URL Shortner AWS (Python)](https://github.com/Waynewhyejr/Serverless-URL-Shortener-AWS-/blob/main/README.md)**
 <hr/>
